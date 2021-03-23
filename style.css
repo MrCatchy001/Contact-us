@@ -62,7 +62,7 @@ img {
     font-size: 500%;
     font-weight: bold;
     color: rgb(36, 29, 29);
-   
+    margin-bottom: 100px; 
 }
 
 .landing-text p{
